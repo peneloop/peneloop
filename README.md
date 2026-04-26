@@ -1,6 +1,6 @@
 ## ✦ Olá, sou a Penélope Vieira!
 
-* 📍 Sou uma desenvolvedora front-end fascinada na criação de aplicações! Estou sempre buscando aprender novas tecnologia.
+* 📍 Sou uma desenvolvedora front-end fascinada na criação de aplicações! Estou sempre buscando aprender novas tecnologias e atualmente tenho focado meus estudos em React e TailwindCSS.
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
   <tr>
@@ -10,7 +10,7 @@
     <td style="border: none;"><img alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></td>
     <td style="border: none;"><img alt="tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></td>
     <td style="border: none;"><img alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /></td>
-    <td style="border: none;"><img alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" /></td>
+</td>
   </tr>
 </table>
 
