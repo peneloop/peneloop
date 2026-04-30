@@ -20,4 +20,8 @@
   <a href="https://www.linkedin.com/in/pen%C3%A9lope-v-9470b1380/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
+
+  <a href="https://portfolio-front-end-five-sigma.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"
+  </a>
 </div>
